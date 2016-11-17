@@ -132,7 +132,7 @@ What is a language designers workbench? How is this approach to domain
 specific languages different from embedded or stand-alone languages?
 What are the relative merits of all these approaches?
 
-Team: Jasper Robeer, Marinus Oosters, Maxwell Hessey, Quiri Passchier, Chiel van Griethuijsen.
+Team: ?
 
 #### OCaml
 
@@ -140,7 +140,7 @@ What is OCaml's module system? How is it different from Haskell's?
 What are signatures and functors? What is the difference between
 generative and applicative functors?
 
-Team:?
+Team: Jasper Robeer, Marinus Oosters, Maxwell Hessey, Quiri Passchier, Chiel van Griethuijsen.
 
 #### Template programming in C++
 
