@@ -67,7 +67,12 @@ Haskell's Maybe type to Swifts Optional enum, garbage collection vs.
 automatic reference counting, safety in regards to memory leaks or memory
 cycles, constructors vs. initializers and potentially more.
 
-Team: Teun Kooijman, Jasper van Noordenburg & anyone else interested in discovering Swift
+Team:
+* Mattijs van de Kuilen
+* Glenn Stewart
+* Jannes Elings
+* Jan Posthoorn
+* Lars Hartmann
 
 #### Rust
 
@@ -132,7 +137,7 @@ What is a language designers workbench? How is this approach to domain
 specific languages different from embedded or stand-alone languages?
 What are the relative merits of all these approaches?
 
-Team: ?
+Team: Jasper Robeer, Marinus Oosters, Maxwell Hessey, Quiri Passchier, Chiel van Griethuijsen.
 
 #### OCaml
 
@@ -140,7 +145,7 @@ What is OCaml's module system? How is it different from Haskell's?
 What are signatures and functors? What is the difference between
 generative and applicative functors?
 
-Team: Jasper Robeer, Marinus Oosters, Maxwell Hessey, Quiri Passchier, Chiel van Griethuijsen.
+Team:?
 
 #### Template programming in C++
 
