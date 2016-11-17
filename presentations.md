@@ -78,7 +78,7 @@ Team:
 * Arian van Putten
 * Richard Schoonhoven
 * Tim Baanen
-* Adolfo Ochavia
+* Adolfo Ochagavía
 * Reinier Maas
 
 #### Elm
@@ -96,7 +96,9 @@ languages for front-end development such as Javascript? What are
 algebraic effects and effect handlers? What are some of the key
 features of the type system?
 
-Team:?
+Team:
+* Martijn Fleuren 
+* ... (Anyone else?)
 
 #### NetKAT
 
@@ -113,7 +115,7 @@ How does Scala combine functional and object-oriented programming?
 What are traits? What are case classes and pattern matching? How can
 you interface with Java?
 
-Team: Matthew, Carlos, (other people interested)
+Team: Matthew, Carlos, Renate, (other people interested)
 
 #### Scala and lightweight modular staging
 
@@ -151,6 +153,8 @@ Team: Michiel Magendans, Robin Ganpat, Jelmer van Nuss, Hugo Heemskerk, Thomas D
 
 What is logic programming? How does the Prolog engine find solutions?
 What is cut? And when should it be used?
+
+Team: Roald Neuteboom, Alexey Rodriguez Blanter, Anvar Arashov, Sjoerd de Vries
 
 #### Other (domain specific) languages
 
