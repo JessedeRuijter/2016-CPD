@@ -161,7 +161,7 @@ Team: Michiel Magendans, Robin Ganpat, Jelmer van Nuss, Hugo Heemskerk, Thomas D
 What is logic programming? How does the Prolog engine find solutions?
 What is cut? And when should it be used?
 
-Team: Roald Neuteboom, Alexey Rodriguez Blanter, Anvar Arashov, Sjoerd de Vries
+Team: Roald Neuteboom, Alexey Rodriguez Blanter, Anvar Arashov, Sjoerd de Vries, Winand Renkema
 
 #### Other (domain specific) languages
 
