@@ -92,7 +92,10 @@ What kind of language is Elm? What is the Elm architecture? How does
 it compare to existing languages for front-end development such as
 Javascript? What kind of code does Elm generate?
 
-Team:?
+Team:
+- Jesse de Ruijter
+- Paolo Servillo
+- Enzo van Kessel
 
 #### Purescript
 
